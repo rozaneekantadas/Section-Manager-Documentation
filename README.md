@@ -31,7 +31,7 @@ Download Link: https://drive.google.com/file/d/1yLrsPMID03nRD5x_UWDMoWP8Wat5nLKX
 # Apps ScreenShot and Description
 
 ## Phone Authentication
-- User need to enter a valid phone number to complete registration
+- User needs to enter a valid phone number to complete registration
 - If phone number is in the same phone where apps is instelled it is automatically verify user phone number. Unless user need to type the verification code manually in the enter code field. If code is right then user verification is complete.
 
 <img height='320' weight='240' src="/Apps%20ScreenShot/1.png"/>   <img height='320' weight='240' src="/Apps%20ScreenShot/2.png"/>
