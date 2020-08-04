@@ -3,7 +3,8 @@ App Name: Section Manager </br>
 Platform: Android </br>
 This is an andorid apps. This apps is for connected with section friend. This is very helpful for the student.
 
-Download Link: https://drive.google.com/file/d/1yLrsPMID03nRD5x_UWDMoWP8Wat5nLKX/view?usp=sharing 
+Download Link: https://drive.google.com/file/d/1yLrsPMID03nRD5x_UWDMoWP8Wat5nLKX/view?usp=sharing
+Promo Video: https://youtu.be/pgaXzsxSuqk
 
 # Feature
 - Phone Authentication System
